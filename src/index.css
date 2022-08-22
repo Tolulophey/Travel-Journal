@@ -59,13 +59,13 @@ body {
 }
 .top >.location{
   height: 10px;
-  width: 40px;
   font-size: 10px;
   color: #2B283A;
   font-weight: 400;
   line-height: 12px;
   letter-spacing: 0.17em;
   margin-right: 12px;
+  text-transform: uppercase;
 
 }
 .top > a {
